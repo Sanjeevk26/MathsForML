@@ -5,4 +5,6 @@ This repository includes various Mathematics chapters (for eg. Linear Algebra, C
 Please make sure, you install these three libraries before running the code.
 1) Numpy
 2) Pytorch
-3) Tensorflow.
+3) Tensorflow
+
+All the hands-on exercises are solved in code as well.
