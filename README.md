@@ -7,4 +7,4 @@ Please make sure, you install these three libraries before running the code.
 2) Pytorch
 3) Tensorflow
 
-All the hands-on exercises are solved in code as well.
+All the exercises (which should be solved with pen-paper) are solved in code as well.
